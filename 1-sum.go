@@ -1,4 +1,4 @@
-package Leetcode
+package main
 
 func twoSum(nums []int, target int) []int {
 	numsMap := make(map[int]int)

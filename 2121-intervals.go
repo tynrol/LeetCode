@@ -1,4 +1,4 @@
-package Leetcode
+package main
 
 func getDistances(arr []int) []int64 {
 	pos := make(map[int][]int)

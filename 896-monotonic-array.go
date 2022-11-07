@@ -1,4 +1,4 @@
-package Leetcode
+package main
 
 func isMonotonic(nums []int) bool {
 	//I wanted here to sort a list and check if its different, but go isn't like pnums[i+1]thon
