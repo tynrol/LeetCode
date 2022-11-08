@@ -1,4 +1,4 @@
-package main
+package __500
 
 func wordBreak(s string, wordDict []string) bool {
 	dp := make([]bool, len(s)+1)

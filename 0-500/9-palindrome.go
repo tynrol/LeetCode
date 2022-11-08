@@ -1,4 +1,4 @@
-package main
+package __500
 
 import "strconv"
 

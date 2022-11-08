@@ -1,4 +1,4 @@
-package main
+package _000_2500
 
 func getDistances(arr []int) []int64 {
 	pos := make(map[int][]int)

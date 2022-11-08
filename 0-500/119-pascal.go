@@ -1,4 +1,4 @@
-package main
+package __500
 
 func getRow(rowIndex int) []int {
 	row := make([]int, rowIndex+1)

@@ -1,4 +1,4 @@
-package main
+package _00_1000
 
 func isMonotonic(nums []int) bool {
 	//I wanted here to sort a list and check if its different, but go isn't python

@@ -1,4 +1,4 @@
-package main
+package _00_1000
 
 import "sort"
 
